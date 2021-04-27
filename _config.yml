@@ -20,7 +20,7 @@
 
 title: knoxjimbo
 email: knoxjimbo@gmail.com
-description: a blog about becoming a web developer # this means to ignore newlines until "baseurl:"
+description: a blog about becoming a teacher # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 production_url: http://knoxjimbo.github.io.com/blog
 BASE_PATH: http://knoxjimbo.com/blog
